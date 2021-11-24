@@ -154,6 +154,11 @@ La journée commence. Il s’habille comme il peut tout en prenant son café. Ch
 	</p>
 
 	<img src=contenu\images\imagebidon7.webp />
+
+	<a href=index.html>
+		
+        <input class=haut type="button" value="retour vers le haut">
+    </a>
     
   </body>
 </html>

@@ -9,9 +9,10 @@ font-size: 150%;
 font-family: URW Chancery L, cursive;
 }
 
+}
 a.hover {
     font-size: 100%;
-    color: blue;
+    color: white);
 }
 
 
@@ -23,7 +24,7 @@ a.hover {
 }
 #menu-deroulant {
 /* on centre le menu dans la page */
-    text-align: center;
+    text-align: left;
 }
 #menu-deroulant li {
 /* on place les liens du menu horizontalement */
@@ -36,7 +37,7 @@ a.hover {
 #menu-deroulant a {
     text-decoration: none;
     display: block;
-	color:#000;
+	color:red;
 }
 #menu-deroulant ul {
     position: absolute;

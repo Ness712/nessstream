@@ -32,6 +32,9 @@
 
 	<video>
 		<source src=contenu\images\videobidon1.mp4>
+	 </video>
+
+	 <video>
 		<source src=contenu\images\videobidon2.mp4>
 	 </video>
 

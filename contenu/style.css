@@ -1,11 +1,7 @@
-
-
-
-
-
-
-
-
+a.hover {
+    font-size: 100%;
+    color: blue;
+}
 
 
 
@@ -42,4 +38,3 @@
 /* Au survol des li du menu on replace les sous menus */
     left: auto;
 }
-

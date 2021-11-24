@@ -24,23 +24,29 @@
   
   <body>
 
+	<ul id="menu-deroulant">
+		<li><a href="#">Lien menu 1</a>
+			<ul>
+				<li><a href=index.html>acceuil</a></li>
+				<li><a href=contenu\pages\page1>page1</a></li>
+				<li><a href=contenu\pages\page2>page2</a></li>
+				<li><a href=contenu\pages\page3>page3</a></li>
+				<li><a href=contenu\pages\page4>page4</a></li>
+			</ul>
+		</li>
+	</ul>
+
 	<h1>NessStream</h1>
 
 	<h2>Page4</h2>
 
 	<h2>SITE EN DEVELOPPEMENT ET DONC NON FONCTIONEL</h2>
 
-	<video>
-		<source src=contenu\images\videobidon1.mp4>
-	 </video>
-
-	 <video>
-		<source src=contenu\images\videobidon2.mp4>
-	 </video>
+	<video src=contenu\videos\videobidon1.mp4 width=50%  height=50% controls poster="vignette.jpg"></video>
+		
 
 <br>
 
-	<img src=contenu\images\bird-of-paradise-flower-6632515__340.webp />
 
 	<h3>Floflo</h3>
 <p>
@@ -91,7 +97,12 @@
 		</p>
 
 <br>
+<video src=contenu\videos\videobidon2.mp4 width=50%  height=50% controls poster="vignette.jpg"></video>
 <br>
+<br>
+<br>
+
+<img src=contenu\images\imagebidon4.webp />
 
 <h3>Flofloo</h3>
 
@@ -106,7 +117,7 @@ En 1975, John Holland construisit un système artificiel qui s'appuyait sur les 
 La journée commence. Il s’habille comme il peut tout en prenant son café. Chemise blanche repassée la veille par lui-même. Une cravate comme tous les jours. Et son costume noir de chez Sam Montiel, très chic et très branché. Chaussures cuir noir. Comme il aime faire remarquer : "Vous êtes soit dans vos chaussures, soit dans votre lit. Alors il faut de bonnes chaussures et une bonne literie !". La météo a annoncé un ciel bleu et des températures au-dessus de la normale saisonnière. C’est un très beau mois de mai qui s’annonce.
 </p>
     
-	<img src=contenu\images\imagebidon4.webp />
+	<img src=contenu\images\imagebidon5.webp />
 
 <h3>Long</h3>
 
@@ -124,7 +135,7 @@ La journée commence. Il s’habille comme il peut tout en prenant son café. Ch
 	
 </p>
 
-	<img src=contenu\images\imagebidon5.webp />
+	<img src=contenu\images\imagebidon6.webp />
 
 	<h3>DTF</h3>
 
@@ -141,6 +152,8 @@ La journée commence. Il s’habille comme il peut tout en prenant son café. Ch
 		Ce n’est pas une blague David, ton programme a réellement fonctionné et je suis là. » Dit Prélude. Et suivit une longue explication de Prélude quant à son existence. Comment avait-il fait pour sortir de l’ordinateur de David pour s’installer sur Internet, et de ce fait sur tous les ordinateurs reliés à Internet. Les explications continuèrent pendant une bonne heure. David laissait parler Prélude. Personne n’intervenait. Tout le monde présent, généraux, informaticiens, simples gardes, tous étaient stupéfiaient.
 		
 	</p>
+
+	<img src=contenu\images\imagebidon7.webp />
     
   </body>
 </html>

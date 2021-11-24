@@ -4,8 +4,8 @@
 
     <meta charset="utf-8">
     <title>NessStream</title>
-    <link rel="stylesheet" href="Autres/style.css">
-    <link rel="icon" href="Autres/Logo2.png">
+    <link rel="stylesheet" href="contenu/style.css">
+    <link rel="icon" href="contenu/images/Logo2.png">
 
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9081259840002677"
 		     crossorigin="anonymous"></script>
@@ -39,7 +39,7 @@
 	<h1>NessStream</h1>
 
 	<h2>Page4</h2>
-
+	
 	<h2>SITE EN DEVELOPPEMENT ET DONC NON FONCTIONEL</h2>
 
 	<video src=contenu\videos\videobidon1.mp4 width=50%  height=50% controls poster="vignette.jpg"></video>
@@ -155,11 +155,12 @@ La journée commence. Il s’habille comme il peut tout en prenant son café. Ch
 
 	<img src=contenu\images\imagebidon7.webp />
 
+ <br>
+
 	<a href=index.html>
 		
         <input class=haut type="button" value="retour vers le haut">
     </a>
-    
+	
   </body>
 </html>
-

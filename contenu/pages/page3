@@ -4,8 +4,8 @@
 
     <meta charset="utf-8">
     <title>NessStream</title>
-    <link rel="stylesheet" href="contenu/style.css">
-    <link rel="icon" href="contenu/images/Logo2.png">
+    <link rel="stylesheet" href=../../contenu/style.css>
+    <link rel="icon" href="../../contenu/images/Logo2.png">
 
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9081259840002677"
 		     crossorigin="anonymous"></script>
@@ -27,11 +27,11 @@
 	<ul id="menu-deroulant">
 		<li><a href="#">MENU</a>
 			<ul>
-				<li><a href=index.html>acceuil</a></li>
-				<li><a href=contenu\pages\page1>page1</a></li>
-				<li><a href=contenu\pages\page2>page2</a></li>
-				<li><a href=contenu\pages\page3>page3</a></li>
-				<li><a href=contenu\pages\page4>page4</a></li>
+				<li><a href=..\..\index.html>acceuil</a></li>
+				<li><a href=..\..\contenu\pages\page1>page1</a></li>
+				<li><a href=..\..\contenu\pages\page2>page2</a></li>
+				<li><a href=..\..\contenu\pages\page3>page3</a></li>
+				<li><a href=..\..\contenu\pages\page4>page4</a></li>
 			</ul>
 		</li>
 	</ul>
@@ -39,10 +39,10 @@
 	<h1>NessStream</h1>
 
 	<h2>Page3</h2>
-	
+
 	<h2>SITE EN DEVELOPPEMENT ET DONC NON FONCTIONEL</h2>
 
-	<video src=contenu\videos\videobidon1.mp4 width=50%  height=50% controls poster="vignette.jpg"></video>
+	<video src=..\..\contenu\videos\videobidon1.mp4 width=50%  height=50% controls poster="vignette.jpg"></video>
 		
 
 <br>
@@ -62,7 +62,7 @@
 	Tous les dix mètres, une pancarte indiquait que ce grillage était électrifié. Un petit chemin longeait les grillages de chaque côté et l’on pouvait y voir de temps en temps deux gardes armés faire leur ronde. La route semblait interminable. Caillouteuse à souhait. Au-delà des grillages, c’était la forêt. Une forêt bien entretenue, presque artificielle pensa David.
 	</p>
     
-	<img src=contenu\images\imagebidon2.webp />
+	<img src=..\..\contenu\images\imagebidon2.webp />
 
 <h3>Cela</h3>
 
@@ -79,7 +79,7 @@
 	Dans le plancher pour savoir si quelqu'un marchait et quel poids il faisait. Le cœur pouvait alors déterminer de quelle personne il s'agissait. Dans les murs, des cellules photosensibles, des micro-caméras et tout un réseau de détecteurs divers (magnétique, pression, infrarouge...) permettait de déterminer la position exacte de chaque personne et objet dans la maison, de ventiler ou chauffer en conséquence, d'allumer ou d'éteindre la lumière...
 	</p>
 
-	<img src=contenu\images\imagebidon3.webp />
+	<img src=..\..\contenu\images\imagebidon3.webp />
 
 	<h3>La</h3>
 
@@ -97,12 +97,12 @@
 		</p>
 
 <br>
-<video src=contenu\videos\videobidon2.mp4 width=50%  height=50% controls poster="vignette.jpg"></video>
+<video src=..\..\contenu\videos\videobidon2.mp4 width=50%  height=50% controls poster="vignette.jpg"></video>
 <br>
 <br>
 <br>
 
-<img src=contenu\images\imagebidon4.webp />
+<img src=..\..\contenu\images\imagebidon4.webp />
 
 <h3>Flofloo</h3>
 
@@ -117,7 +117,7 @@ En 1975, John Holland construisit un système artificiel qui s'appuyait sur les 
 La journée commence. Il s’habille comme il peut tout en prenant son café. Chemise blanche repassée la veille par lui-même. Une cravate comme tous les jours. Et son costume noir de chez Sam Montiel, très chic et très branché. Chaussures cuir noir. Comme il aime faire remarquer : "Vous êtes soit dans vos chaussures, soit dans votre lit. Alors il faut de bonnes chaussures et une bonne literie !". La météo a annoncé un ciel bleu et des températures au-dessus de la normale saisonnière. C’est un très beau mois de mai qui s’annonce.
 </p>
     
-	<img src=contenu\images\imagebidon5.webp />
+	<img src=..\..\contenu\images\imagebidon5.webp />
 
 <h3>Long</h3>
 
@@ -135,7 +135,7 @@ La journée commence. Il s’habille comme il peut tout en prenant son café. Ch
 	
 </p>
 
-	<img src=contenu\images\imagebidon6.webp />
+	<img src=..\..\contenu\images\imagebidon6.webp />
 
 	<h3>DTF</h3>
 
@@ -153,14 +153,17 @@ La journée commence. Il s’habille comme il peut tout en prenant son café. Ch
 		
 	</p>
 
-	<img src=contenu\images\imagebidon7.webp />
+	<img src=..\..\contenu\images\imagebidon7.webp />
 
  <br>
 
-	<a href=index.html>
+	<a href=..\..\index.html>
 		
         <input class=haut type="button" value="retour vers le haut">
     </a>
-	
+	 <br>
+	 <br>
+	 <br>
+	 
   </body>
 </html>

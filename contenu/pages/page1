@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8">
+    <title>NessStream</title>
+    <link rel="stylesheet" href="Autres/style.css">
+    <link rel="icon" href="Autres/Logo2.png">
+
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9081259840002677"
+		     crossorigin="anonymous"></script>
+
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=G-VCZZ993J4K"></script>
+				<script>
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+
+				  gtag('config', 'G-VCZZ993J4K');
+				</script>
+
+  <head> 	
+  
+  <body>
+
+
+    
+  </body>
+</html>
 

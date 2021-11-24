@@ -15,7 +15,12 @@ a.hover {
     color: white);
 }
 
-
+.haut {
+    background-color: black;
+    color: red;
+    border-color: red;
+    float: center;
+}
 
 #menu-deroulant, #menu-deroulant ul {
     padding: 0;

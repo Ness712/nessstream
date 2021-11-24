@@ -25,7 +25,7 @@
   <body>
 
 	<ul id="menu-deroulant">
-		<li><a href="#">menu</a>
+		<li><a href="#">MENU</a>
 			<ul>
 				<li><a href=index.html>acceuil</a></li>
 				<li><a href=contenu\pages\page1>page1</a></li>

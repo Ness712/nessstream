@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+}
+
 a.hover {
     font-size: 100%;
     color: blue;

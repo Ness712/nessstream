@@ -4,7 +4,7 @@ color: darkred;
 
 body {
 text-align: center;
-background-color: darkgray;
+background-color: dimgray;
 color: firebrick;
 margin: 0px;
 padding: 0px;
@@ -20,8 +20,8 @@ a.hover {
 
 .haut {
     background-color: black;
-    color: indianred;
-    border-color: indianred;
+    color: firebrick;
+    border-color: firebrick;
     float: center;
 }
 
@@ -46,7 +46,7 @@ a.hover {
 #menu-deroulant a {
     text-decoration: none;
     display: block;
-	color:indianred;
+	color:firebrick;
 }
 #menu-deroulant ul {
     position: absolute;

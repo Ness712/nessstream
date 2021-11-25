@@ -1,12 +1,12 @@
 h1 {
-color: #DC143C;
+color: whitesmoke;
 }
 
 body {
     text-align: center;
 
-background-color: grey;
-color: #8B0000;
+background-color: rgb(211,211,211);
+color: #white;
 margin: 0px;
 padding: 0px;
 font-size: 150%;

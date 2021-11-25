@@ -4,8 +4,8 @@ color: darkred;
 
 body {
 text-align: center;
-background-color: dimgray;
-color: firebrick;
+background-color: gray;
+color: red;
 margin: 0px;
 padding: 0px;
 font-size: 150%;
@@ -20,8 +20,8 @@ a.hover {
 
 .haut {
     background-color: black;
-    color: firebrick;
-    border-color: firebrick;
+    color: red;
+    border-color: red;
     float: center;
 }
 
@@ -46,7 +46,7 @@ a.hover {
 #menu-deroulant a {
     text-decoration: none;
     display: block;
-	color:firebrick;
+	color:darkred;
 }
 #menu-deroulant ul {
     position: absolute;

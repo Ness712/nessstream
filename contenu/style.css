@@ -1,11 +1,11 @@
 h1 {
-color: whitesmoke;
+color: snow;
 }
 
 body {
 text-align: center;
 background-color: rgb(211,211,211);
-color: white;
+color: dimgrey;
 margin: 0px;
 padding: 0px;
 font-size: 150%;
@@ -20,7 +20,7 @@ a.hover {
 
 .haut {
     background-color: black;
-    color: #8B0000;
+    color: snow;
     border-color: #8B0000;
     float: center;
 }

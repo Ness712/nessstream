@@ -1,11 +1,11 @@
 h1 {
-color: snow;
+color: darkred;
 }
 
 body {
 text-align: center;
 background-color: rgb(211,211,211);
-color: lightcoral;
+color: firebrick;
 margin: 0px;
 padding: 0px;
 font-size: 150%;
@@ -20,8 +20,8 @@ a.hover {
 
 .haut {
     background-color: black;
-    color: snow;
-    border-color: #8B0000;
+    color: indianred;
+    border-color: indianred;
     float: center;
 }
 
@@ -46,7 +46,7 @@ a.hover {
 #menu-deroulant a {
     text-decoration: none;
     display: block;
-	color:#DC143C;
+	color:indianred;
 }
 #menu-deroulant ul {
     position: absolute;

@@ -2,7 +2,7 @@ body {
     text-align: center;
 
 background-color: grey;
-color: red;
+color: #8B0000;
 margin: 0px;
 padding: 0px;
 font-size: 150%;
@@ -17,8 +17,8 @@ a.hover {
 
 .haut {
     background-color: black;
-    color: red;
-    border-color: red;
+    color: #8B0000;
+    border-color: #8B0000;
     float: center;
 }
 
